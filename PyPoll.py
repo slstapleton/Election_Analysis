@@ -92,7 +92,6 @@ print(winning_candidate_summary)
 # Print the total votes.
 # print(total_votes)
 
-    # To do: perform analysis.
     #print(election_data)
 
 # Using the open() function with the "w" mode we will write data to the file.
