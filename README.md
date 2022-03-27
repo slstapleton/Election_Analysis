@@ -8,6 +8,7 @@ The Colorado Board of Elections need to complete an audit from a large amount of
 - How many votes were cast in this congressional election?
 
 In this election, there were a total of 369,711 voters. The following image shows how our code generated this number from the provided election results csv file. By creating a for loop through the rows, after establishing a header row and setting the total votes count to zero, we created a counter to add the number rows.
+
 ![Total votes code](https://user-images.githubusercontent.com/100329223/160261689-17aa37ff-b9fe-413f-90cb-4074e7363447.png)
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
